@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "739108805005",
+    "project_id": "nutralike-8b1b1",
+    "storage_bucket": "nutralike-8b1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739108805005:android:c00b8ddf00f754a54ec5c4",
+        "android_client_info": {
+          "package_name": "com.mahima.nutralike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739108805005-38e1kcn85l149gq7svvg6dkgn9mvokph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5-9x6NFWq7cWN1fZiVm6NeSJwqAXJ_FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739108805005-38e1kcn85l149gq7svvg6dkgn9mvokph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
